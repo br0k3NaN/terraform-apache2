@@ -1,1 +1,6 @@
-# terraform-apache2
+
+# Task:
+Build a EC2 machine with apache2
+
+
+
